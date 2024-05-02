@@ -1,0 +1,8 @@
+name: ChatRepair
+version: '${project.version}'
+main: me.zackmartin238.chatrepair.ChatRepair
+api-version: '1.20'
+prefix: [Chat Repair]
+authors: [Charizor234 (Zackary Martin]
+description: It makes it so the users on my server cannot say the word "mac"
+website: https://doctechwebsolutions.com
